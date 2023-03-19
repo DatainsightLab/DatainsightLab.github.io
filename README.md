@@ -12,3 +12,7 @@
 따라서 퍼셉트론 알고리즘의 목표는 다음 값을 최소로 하는 $\beta$를 찾는 것이다.
 
 $$ D(\beta,\beta_0) = - \sum_{\cal M} y_i (x_i^t\beta + \beta_0) $$
+
+```math
+E = mc^2
+```
