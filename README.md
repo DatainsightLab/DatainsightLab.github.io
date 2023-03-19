@@ -1,5 +1,3 @@
-# DatainsightLab.github.io
-
 # Perceptron
 
 ## 퍼셉트론이란?
